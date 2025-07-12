@@ -7,3 +7,4 @@ Basic array problems in Python (Max, Even/Odd, Avg, Search
 - Print Elements greater than average
 - Search for specific element
 - Print numbers Even and Greater than 10
+Language: Python 🐍
