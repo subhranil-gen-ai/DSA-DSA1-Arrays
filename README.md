@@ -10,3 +10,8 @@ Basic array problems in Python (Max, Even/Odd, Avg, Search)
 
 
 Language: Python 🐍
+
+# Author
+Subhranil Dutta
+CSE | GenAI & DSA Learner | Python Developer  
+🔗 [GitHub Profile](https://github.com/subhranil-gen-ai)
